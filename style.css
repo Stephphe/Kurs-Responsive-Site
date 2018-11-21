@@ -1,0 +1,85 @@
+h1{
+  color:Black;
+  align-items:center;
+  text-align:center;
+  border-color:black;
+}
+
+h3{
+  color:Black;
+  align-items:center;
+  text-align:center;
+  border-color:black;
+  padding:10px;
+  margin:10px;
+}
+
+img{
+  border: 10px solid black;
+}
+
+.toppbild{
+   width:98%;
+   align-items: top;
+   justify-content: center;
+ }
+
+ .infoknappar{
+   /*flexbox*/
+   display: flex;
+   justify-content: center;
+   align-items:center;
+
+   /*styling*/
+   width: 80%;
+   height: 50px;
+   text-align: center;
+   background-color: black;
+   color:white;
+   padding:10px;
+   margin:30px;
+   text-decoration: none;
+ }
+
+ .justnurubrik{
+   color:white;
+  background-color:black;
+  text-align: center;
+    font-size:30px;
+    padding: 20px;
+    width:95;
+    margin:30px;
+}
+
+.justnu{
+  color:Black;
+  background:white;
+  margin:10px;
+  width:95%;
+  font-size:20px;
+  text-align: center;
+}
+
+.vadtyckerdu{
+   width:98%;
+   align-items: top;
+   justify-content: center;
+ }
+
+ .vadtyckerdutext{
+   color:Black;
+   background:white;
+   padding:10px;
+   width:98%;
+   font-size:20px;
+   text-align: center;
+ }
+
+ .form{
+   color:Black;
+   background:white;
+   padding:10px;
+   width:98%;
+   font-size:20px;
+   text-align: center;
+ }
