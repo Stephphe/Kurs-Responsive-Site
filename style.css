@@ -15,11 +15,11 @@ h3{
 }
 
 img{
-  border: 10px solid black;
+  border: 5px solid black;
 }
 
 .toppbild{
-   width:98%;
+   width:99%;
    align-items: top;
    justify-content: center;
  }
@@ -45,43 +45,51 @@ img{
 
  .justnurubrik{
    color:white;
-  background-color:black;
-  text-align: center;
-    font-size:30px;
-    padding: 20px;
-    width:95%;
-    margin:center;
+   background-color:black;
+   text-align: center;
+   font-size:25px;
+   padding: 7px;
+   width:98%;
+   align-items:center;
 }
 
 .justnu{
   color:Black;
   background:white;
   margin:10px;
-  width:95%;
+  width:99%;
   font-size:20px;
   text-align: center;
 }
 
 .vadtyckerdu{
-   width:98%;
+   width:99%;
    align-items: top;
    justify-content: center;
  }
 
  .vadtyckerdutext{
-   color:Black;
-   background:white;
-   padding:10px;
-   width:98%;
-   font-size:30px;
+   color:white;
+   background-color:black;
    text-align: center;
- }
+   font-size:25px;
+   padding: 7px;
+   width:98%;
+   align-items:center;
+   }
 
- .form{
-   color:Black;
-   background:white;
-   padding:10px;
-   width:98%;
-   font-size:20px;
-   text-align: center;
- }
+.form{
+  color:black;
+  text-align:center;
+}
+
+.masten{
+  color:white;
+  background-color:black;
+  text-align: center;
+  font-size:25px;
+  padding: 7px;
+  width:98%;
+  align-items:center;
+  margin-top:20px;
+}
