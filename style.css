@@ -2,7 +2,9 @@ h1{
   color:Black;
   align-items:center;
   text-align:center;
-  border-color:black;
+  width:99%;
+  border:5px solid black;
+  text-size:150px;
 }
 
 h3{
